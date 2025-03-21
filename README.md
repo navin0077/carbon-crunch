@@ -3,8 +3,10 @@
 Sustain Crunch is a modern eco-reporting web application built with **Vite + React + Tailwind CSS + HTML + CSS**. This project aims to provide accurate carbon calculations and sustainability insights for industry leaders.
 
 ## Features
+- Dark Mode and Light Mode is there
+- My own Icon is used
 - Automated carbon data collection
-- AI-driven insights for sustainability reporting
+- AI-driven insights for sustainability reporting (comming soon)
 - Simplified certification process
 - Real-time monitoring and reporting
 - GHG accounting services
@@ -14,7 +16,12 @@ Sustain Crunch is a modern eco-reporting web application built with **Vite + Rea
 - **Build Tool:** Vite
 - **Package Manager:** npm / yarn
 
-## Installation
+## Images
+![image](https://github.com/user-attachments/assets/cf6eb32b-d35b-4a09-91ff-4fbf23be2e28)
+![image](https://github.com/user-attachments/assets/4aeb41e2-53ce-4189-89e4-7dc01aff8998)
+![image](https://github.com/user-attachments/assets/4353faec-8e9a-4093-9815-4a8c76174160)
+![image](https://github.com/user-attachments/assets/67d757fe-d09b-4575-a088-c2796764a22a)
+
 
 ### Prerequisites
 Ensure you have **Node.js** and **npm** (or yarn) installed on your system.
